@@ -1,6 +1,6 @@
 # Niko Manga Extensions for Aniyomi
 
-Extensiones de manga para Aniyomi.
+Extensiones de manga para Aniyomi: MangaDex, InManga, MangaOni, ZonaTMO y HeavenManga.
 
 En Aniyomi: **Mas > Ajustes > Navegar > Repositorios de extensiones de manga > Anadir** y pega:
 

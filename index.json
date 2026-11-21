@@ -12,6 +12,18 @@
                     ]
     },
     {
+        "name":  "Tachiyomi: HeavenManga",
+        "pkg":  "eu.kanade.tachiyomi.extension.es.heavenmanga",
+        "apk":  "tachiyomi-es.heavenmanga-v1.5.2.apk",
+        "lang":  "es",
+        "code":  2,
+        "version":  "1.5.2",
+        "nsfw":  0,
+        "sources":  [
+
+                    ]
+    },
+    {
         "name":  "Tachiyomi: InManga",
         "pkg":  "eu.kanade.tachiyomi.extension.es.inmanga",
         "apk":  "tachiyomi-es.inmanga-v1.5.2.apk",
