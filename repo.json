@@ -1,0 +1,8 @@
+{
+    "meta":  {
+                 "name":  "Niko Manga Extensions for Aniyomi",
+                 "shortName":  "Niko-Manga",
+                 "website":  "https://github.com/Niko-Vanetti/niko-manga-extensions-for-aniyomi",
+                 "signingKeyFingerprint":  "74f503db290f515d97faf13ab34b9e4f61fab6c67291cb03d82b90adee3e8fcb"
+             }
+}
